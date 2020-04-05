@@ -6,4 +6,6 @@ The software can be run by downloading and decompressing the folder of the repos
 
 The app may need to be restarted due to the security on your PC and is only compatible to Windows 10. Follow the instructions on the screen and read through all the output guidelines.
 
-Please be careful to only use the information with caution if any to your own protocols.
+Please be careful to only use the information with caution if any to your own protocols. 
+
+If you could contribute a protocol then send a message.
