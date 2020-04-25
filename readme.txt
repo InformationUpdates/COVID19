@@ -2,6 +2,6 @@ This application contains the Belgian Interim Guide for COVID-19 treatment as of
 
 The app may restart due to the security on your PC and the program was tested after development on Windows 10. Follow the instructions on the screen and read through all the output guidelines.Please be careful to only use the information with caution if any to your own protocol. If you could contribute a protocol, kindly send a request. 
 
-There has additionally been a short summary added on the significance of BCG on the mortality with COVID-19. The results indicate a strong protective effect of this vaccine with the limited data available. There is not yet been taken into account starting and termination years of the vaccination. This could be investigated in a cross-sectional study.
+There has additionally been a short summary added on the significance of BCG on the mortality with COVID-19. The results indicate a strong protective effect of this vaccine with the limited data available. There is not yet been taken into account starting and termination years of the vaccination. This could be investigated in a cohort study.
 
 
