@@ -7,9 +7,11 @@ An open-source French protocol can be found at: https://johann.pardanaud.com/med
 A short summary was added on the significance of BCG on the mortality with COVID-19. The results indicate a strong protective effect of this vaccine with the limited data available. There is not yet been taken into account starting and termination years of the vaccination within the past decades per country. This could be investigated in a cohort study.
 
 
-Percentage of deaths per country:
+Percentage of deaths per country as of 17th May:
 
 China: 0.0032 %
 Netherlands: 0.033 %
+France: 0.042 %
 Belgium: 0.078 %
 Italy: 0.053 %
+
