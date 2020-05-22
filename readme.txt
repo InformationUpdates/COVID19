@@ -6,7 +6,7 @@ An open-source French protocol can be found at: https://johann.pardanaud.com/med
 
 A short summary was added on the significance of BCG on the mortality with COVID-19. The results indicate a strong protective effect of this vaccine with the limited data available. There is not yet been taken into account starting and termination years of the vaccination within the past decades per country. This could be investigated in a cohort study.
 
-On 22nd May approximately 3% of the expected daily deaths were of Covid-19.
+On 22nd May approximately 3% of the expected daily deaths were of COVID-19.
 
 Percentage of deaths per country as of 17th May:
 
