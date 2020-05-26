@@ -12,6 +12,7 @@ Percentage of deaths per country as of 25th May:
 
 China: 0.0032 %
 Netherlands: 0.034 %
-France: 0.044 %
 Belgium: 0.080 %
+France: 0.044 %
+
 
