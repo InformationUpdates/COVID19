@@ -15,5 +15,4 @@ Netherlands: 0.034 %
 Belgium: 0.080 %
 France: 0.044 %
 
-For young persons without hospital insurance, you could use a bag valve mask for manual ventilation or a medical ventilator for keeping the oxygen level between 93-100%, starting at 4cm H20 and increasing slow if necessary. These devices often have a pulse oximeter for measurement as well. The following link gives a commercial medical ventilation product, they can be bought from Aliexpress. https://www.youtube.com/watch?v=4BKI8TChdjA
-
+For young persons without hospital insurance, you could use a medical ventilator for keeping the oxygen level between 93-100%, starting at 4cm H20 and increasing slow if necessary. These devices often have a pulse oximeter for measurement as well. The following link gives a commercial medical ventilation product, they can be bought from Aliexpress. https://www.youtube.com/watch?v=4BKI8TChdjA
