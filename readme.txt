@@ -4,7 +4,7 @@ The app may restart due to the security on your PC and the program was tested af
 
 An open-source French protocol can be found at: https://johann.pardanaud.com/medicina-covid-19-protocol/
 
-A short summary was added on the significance of BCG on the mortality with COVID-19. The results indicate a strong protective effect of this vaccine with the limited data available. There is not yet been taken into account starting and termination years of the vaccination within the past decades per country. This could be investigated in a cohort study.
+A short summary was added on the significance of BCG on the mortality with COVID-19. The results indicate a strong protective effect of this vaccine with the limited data available. There is not yet been taken into account starting and termination years of the vaccination within the past decades per country. This could be investigated in a cohort study. There is also the effect of the age demographics per country, this is due to the death rate statistics of COVID-19 per age group.
 
 On 25th May approximately 0.75% of the expected daily deaths were of COVID-19.
 
