@@ -16,3 +16,5 @@ Belgium: 0.080 %
 France: 0.044 %
 
 For young persons without hospital insurance, you could use a medical ventilator for keeping the oxygen level between 93-100%, starting at 4cm H20 and increasing slow if necessary. These devices often have a pulse oximeter for measurement as well. The following link gives a commercial medical ventilation product, they can be bought from Aliexpress. https://www.youtube.com/watch?v=4BKI8TChdjA
+
+17th June Update: Dexamethasone is not a proven medication for COVID-19. The medication is anti-inflammatory and causes immune suppression, therefore, secondary infections and promotion of antibiotics are the costs of steroids. The British death rate is above 10 times the global average, therefore the claim of 30% reduction in fatality of ICU patients without proof is of no substantial improvement.
